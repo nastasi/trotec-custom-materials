@@ -12,3 +12,8 @@ second line
 third line
 [//]: # (This may be the most platform independent comment)
 forth line
+
+<!-- this is an HTML comment -->
+fifth line
+<!-- this is an HTML comment -->
+sixth line
