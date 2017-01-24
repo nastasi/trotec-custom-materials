@@ -18,6 +18,6 @@ fifth line
 <!-- this is an HTML comment -->
 sixth line
 
-  * point \\ 
+  * point \
 [//]: # (This may be the most platform independent comment)
   * repoint
