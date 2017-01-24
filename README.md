@@ -7,3 +7,8 @@ first line
 [//]: # (This may be the most platform independent comment)
 
 second line
+
+[//]: # (This may be the most platform independent comment)
+third line
+[//]: # (This may be the most platform independent comment)
+forth line
