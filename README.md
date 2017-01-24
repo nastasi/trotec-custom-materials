@@ -18,5 +18,5 @@ fifth line
 <!-- this is an HTML comment -->
 sixth line
 
-  * point <!-- comments -->
+  * point <!-- comments --> raperonzolo
   * repoint
