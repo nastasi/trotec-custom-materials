@@ -17,3 +17,7 @@ forth line
 fifth line
 <!-- this is an HTML comment -->
 sixth line
+
+  * point \\ 
+[//]: # (This may be the most platform independent comment)
+  * repoint
